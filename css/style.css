@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 992px) {
+  .znikanie{
+  display:none;}
+}
+
+ .rounded-circle {width: 150px;
+ height: 150px;
+margin: auto;}
+
+.card {border: none;}
+
+.card-body {text-align: center;}
+
+.container {margin-top: 50px;}
+
+.slidersize {height: 512px;
+  background-size: cover;}
+
+  .imgsize {height: 512px;}
+
+  .text1
+  {text-align: left;}
+
+  .text3
+  {text-align: right;}
+
+  .pozycjatekstu
+  {vertical-align: middle;
+  margin: auto;}
+
+  .przestrzena
+  {margin-top: 100px;
+  margin-bottom: 70px;}
+
+  .przestrzen
+  {margin-top: 70px;
+  margin-bottom: 70px;}
